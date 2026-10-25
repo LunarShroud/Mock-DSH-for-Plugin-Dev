@@ -1,0 +1,5 @@
+# Isolated mock DSH instances for plugin development.
+- insert:
+    - id: mock-dsh-sandbox
+      name: '@local/mock-dsh-sandbox'
+      config: {}

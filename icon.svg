@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Mock DSH sandbox">
+  <rect width="64" height="64" rx="14" fill="#0F172A"/>
+  <path d="M32 9.5l18.5 7.2v12.6c0 11.4-7.8 20.2-18.5 25-10.7-4.8-18.5-13.6-18.5-25V16.7z" fill="#1E293B" stroke="#38BDF8" stroke-width="2.5" stroke-dasharray="4 3" stroke-linejoin="round"/>
+  <rect x="20" y="23" width="24" height="15" rx="3.5" fill="#0EA5E9"/>
+  <path d="M20 27.5h24" stroke="#0B1220" stroke-width="2"/>
+  <circle cx="25.5" cy="33.5" r="1.8" fill="#E0F2FE"/>
+  <circle cx="32" cy="33.5" r="1.8" fill="#E0F2FE"/>
+  <circle cx="38.5" cy="33.5" r="1.8" fill="#E0F2FE"/>
+  <path d="M32 38v6" stroke="#F59E0B" stroke-width="3" stroke-linecap="round"/>
+  <path d="M27 47.5h10" stroke="#F59E0B" stroke-width="3" stroke-linecap="round"/>
+</svg>

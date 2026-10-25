@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Mock DSH Sandbox",
+    "description": "Boots isolated, disposable DSH instances so plugin experiments never touch the live DSH."
+  }
+}
